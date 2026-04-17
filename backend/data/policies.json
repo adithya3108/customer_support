@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Refund Policy",
+    "content": "Customers can request a refund within 7 days of delivery if the item is unused, undamaged, and returned with the original packaging. Refunds are processed after the warehouse confirms the return."
+  },
+  {
+    "title": "Return Policy",
+    "content": "Returns are accepted within 10 days for damaged, defective, or incorrect items. The support team must approve the request before the customer sends the item back."
+  },
+  {
+    "title": "Delivery Delay",
+    "content": "If delivery is delayed by more than 5 business days beyond the promised date, the customer may request status review, replacement, or escalation."
+  },
+  {
+    "title": "Cancellation Policy",
+    "content": "Orders can be cancelled before they are shipped. Once the order is marked as dispatched, cancellation is not possible and the customer should use the return process after delivery."
+  },
+  {
+    "title": "Replacement Policy",
+    "content": "A replacement can be issued if the product arrives damaged, missing parts, or not matching the product description. Replacement requests should include clear photos when possible."
+  },
+  {
+    "title": "Warranty Policy",
+    "content": "Electronics and appliances carry a 1-year warranty against manufacturing defects. The warranty does not cover accidental damage, misuse, or unauthorised repairs."
+  },
+  {
+    "title": "Payment Issue",
+    "content": "If payment was deducted but the order was not created, the customer should wait 24 hours for automatic reconciliation or contact support with the transaction ID."
+  },
+  {
+    "title": "Account Access",
+    "content": "Customers who cannot access their account should reset the password first. If the issue continues, support can verify the registered email and unlock the account."
+  }
+]

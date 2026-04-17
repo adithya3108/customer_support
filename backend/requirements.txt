@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+rank_bm25
+pydantic
+python-dotenv
+openai
